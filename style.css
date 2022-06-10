@@ -5,7 +5,7 @@
 }
 .header
 {
-
+	height: 100vh;
 }
 .video-background
 {
@@ -33,6 +33,4 @@
 	  width: auto;
 	  height: 100%;
 	}	
-}
-	
 }
